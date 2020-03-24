@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\obj\Debug\netcoreapp3.1\LEct_7.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\obj\Debug\netcoreapp3.1\LEct_7.AssemblyInfoInputs.cache
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\obj\Debug\netcoreapp3.1\LEct_7.AssemblyInfo.cs
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.exe
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.deps.json
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.runtimeconfig.json
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.runtimeconfig.dev.json
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.dll
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\bin\Debug\netcoreapp3.1\LEct_7.pdb
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\obj\Debug\netcoreapp3.1\LEct_7.dll
+C:\Users\Nikita\source\repos\LEct_7\LEct_7\obj\Debug\netcoreapp3.1\LEct_7.pdb
